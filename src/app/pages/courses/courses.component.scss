@@ -1,0 +1,150 @@
+.btn-primary {
+    color: #fff !important;
+}
+
+.form-control {
+    box-shadow: 0 10px 40px 0 #B0C1D9;
+}
+
+.form-control::placeholder {
+    font-family: FontAwesome;
+}
+
+.populer-course-section .online-intro-text {
+    font-size: 16px;
+    line-height: 30px;
+    color: #000;
+    text-align: justify;
+}
+
+.populer-course-section .online-ouro-text {
+    margin-bottom: 30px;
+}
+
+.populer-course-section .online-ouro-text p {
+    font-size: 16px;
+    line-height: 30px;
+    color: #000;
+    text-align: justify;
+}
+
+.populer-course-section .online-ouro-text-ul {
+    margin-bottom: 30px;
+}
+
+.populer-course-section .online-ouro-text-ul li {
+    font-size: 16px;
+    line-height: 30px;
+    color: #000;
+    text-align: justify;
+}
+
+.populer-course-section .online-ouro-text-ul p {
+    font-size: 16px;
+    line-height: 30px;
+    color: #000;
+    text-align: justify;
+}
+
+.exam-detail-tab-section {
+    display: none;
+}
+
+.online-courses-intro {
+    background: #fff;
+    color: #000;
+    padding: 50px 0;
+}
+
+.online-courses-intro .online-intro-text {
+    font-size: 16px;
+    line-height: 30px;
+    color: #000;
+    text-align: justify;
+}
+
+.online-courses-intro p {
+    font-size: 16px;
+    line-height: 30px;
+    color: #000;
+    text-align: justify;
+}
+
+.online-courses-intro h2 {
+    color: #1865cf;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.online-courses-list-style li {
+    display: block;
+    padding: 5px 0 5px 22px;
+    position: relative;
+}
+
+.online-courses-list-style li:before {
+    content: "\f00c";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: #77bd1b;
+    font-size: 13px;
+    padding-right: 0.5em;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+
+.online-courses-listest {
+    list-style-type: disc;
+    padding-left: 15px;
+}
+
+.online-courses-listest li {
+    padding: 5px;
+    color: #09244a;
+    font-size: 16px;
+    list-style-type: disc;
+}
+
+.online-courses-buy-instraction li {
+    display: block;
+    padding: 5px 0 5px 22px;
+    position: relative;
+}
+
+.online-courses-buy-instraction li:before {
+    content: "\f138";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: #000308;
+    font-size: 16px;
+    padding-right: 0.5em;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+
+.blog-page-section.populer-course-section .card-body {
+    padding: 15px 15px 0;
+}
+
+p.courses_tags {
+    min-height: 56px;
+}
+
+p.courses_tags span {
+    background: #deece8;
+    color: #2e8e0f;
+    padding: 1px 6px;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 11px;
+    margin: 2px;
+    display: inline-block;
+}
